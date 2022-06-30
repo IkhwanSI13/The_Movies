@@ -1,0 +1,1 @@
+enum MovieBy { POPULAR, NOW_PLAYING, UP_COMING }
